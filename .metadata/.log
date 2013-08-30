@@ -1,0 +1,43 @@
+!SESSION 2013-08-30 11:51:19.037 -----------------------------------------------
+eclipse.buildId=4.3.0.I20130605-2000
+java.version=1.6.0_45
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product -keyring /Users/pn655/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.standard.product -data /Users/pn655/Documents/pulse/Work/PulseRepo -product org.eclipse.epp.package.standard.product -keyring /Users/pn655/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2013-08-30 11:51:22.935
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.256
+!MESSAGE RelativityFileSystemStructureProvider.cllectFiles() called. file count=7
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.293
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/8t/0c_mgfvd6233tmch8sgg8ng40000gn/T/express-work/1377878011094/Pulse/app.js
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.295
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/8t/0c_mgfvd6233tmch8sgg8ng40000gn/T/express-work/1377878011094/Pulse/package.json
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.298
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/8t/0c_mgfvd6233tmch8sgg8ng40000gn/T/express-work/1377878011094/Pulse/public/stylesheets/style.css
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.299
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/8t/0c_mgfvd6233tmch8sgg8ng40000gn/T/express-work/1377878011094/Pulse/routes/index.js
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.300
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/8t/0c_mgfvd6233tmch8sgg8ng40000gn/T/express-work/1377878011094/Pulse/routes/user.js
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.301
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/8t/0c_mgfvd6233tmch8sgg8ng40000gn/T/express-work/1377878011094/Pulse/views/index.jade
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.302
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/var/folders/8t/0c_mgfvd6233tmch8sgg8ng40000gn/T/express-work/1377878011094/Pulse/views/layout.jade
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:31.315
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/bundles/256/1/.cp/common-templates/.settings/com.eclipsesource.jshint.ui.prefs
+
+!ENTRY org.nodeclipse.ui 1 0 2013-08-30 11:53:32.491
+!MESSAGE RelativityFileSystemStructureProvider.getContents() called. elemnt=/Applications/eclipse/configuration/org.eclipse.osgi/bundles/256/1/.cp/common-templates/README.md
+
+!ENTRY org.eclipse.debug.ui 4 120 2013-08-30 11:53:33.698
+!MESSAGE org.eclipse.debug.ui.toggleBreakpointsTargetFactory extension failed to load breakpoint toggle target because the specified id is already registered.  Specified ID is: org.chromium.debug.ui.ChromiumToggleBreakpointTargetFactory
